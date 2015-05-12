@@ -2,7 +2,7 @@ require_relative '../lib/ticket.rb'
 require_relative '../lib/vending_machine.rb'
 
 require 'json'
-
+require 'pry'
 RSpec.configure do |config|
 
 end
